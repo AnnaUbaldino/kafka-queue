@@ -1,5 +1,5 @@
 {
-    "name": "annaubaldino/kafka_queue",
+    "name": "annaubaldino/kafka-queue",
     "require": {
         "laravel/framework": "^8.12"
     },
